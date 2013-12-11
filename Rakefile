@@ -12,7 +12,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "hello_world_gem"
+  gem.name = "hello_world_gem_yunan"
   gem.homepage = "http://github.com/yunanhelmy/hello_world_gem"
   gem.license = "MIT"
   gem.summary = "first gem using jeweler"
