@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.summary = "first gem using jeweler"
   gem.description = "gem saying hello world"
   gem.email = "m.yunan.helmy@gmail.com"
-  gem.authors = ["myunanhelmy"]
+  gem.authors = ["yunanhelmy"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
